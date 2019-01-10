@@ -1,0 +1,12 @@
+C:\Users\mpatil\Desktop\Book-Pay\QR Scanner\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\mpatil\Desktop\Book-Pay\QR Scanner\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\mpatil\Desktop\Book-Pay\QR Scanner\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mpatil\Desktop\Book-Pay\QR Scanner\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mpatil\Desktop\Book-Pay\QR Scanner\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\mpatil\Desktop\Book-Pay\QR Scanner\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\mpatil\Desktop\Book-Pay\QR Scanner\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\mpatil\Desktop\Book-Pay\QR Scanner\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\mpatil\Desktop\Book-Pay\QR Scanner\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\mpatil\Desktop\Book-Pay\QR Scanner\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\mpatil\Desktop\Book-Pay\QR Scanner\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mpatil\Desktop\Book-Pay\QR Scanner\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
